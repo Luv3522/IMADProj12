@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118959031796",
+    "project_id": "biometric-attendance-app",
+    "storage_bucket": "biometric-attendance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118959031796:android:d6aef9057cc601b5c065a1",
+        "android_client_info": {
+          "package_name": "com.example.imadproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118959031796-gi25al0ai6q9dng0fue75uicp523907a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjh0Lqw1x6fFtov7aFOnL5HQUlfz4cqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118959031796-gi25al0ai6q9dng0fue75uicp523907a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
